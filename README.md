@@ -4,5 +4,5 @@
 ![p-geon's github stats](https://github-readme-stats.vercel.app/api?username=p-geon&show_icons=true&theme=radical)</br>
 🕊🕊🕊🕊🕊🕊🕊🕊🕊🕊🕊🕊🕊🕊🕊🕊🕊</br>
 
-→ Gist: https://gist.github.com/p-geon
-→ DockerHUB: https://hub.docker.com/repositories
+- Gist: https://gist.github.com/p-geon
+- DockerHUB: https://hub.docker.com/repositories
