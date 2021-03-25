@@ -6,3 +6,4 @@
 
 - Gist: https://gist.github.com/p-geon
 - DockerHUB: https://hub.docker.com/repositories
+- [alias of alias](https://github.com/p-geon/bash_syncer/blob/main/bash/.bash_aliases)
