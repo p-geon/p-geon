@@ -6,4 +6,10 @@
 
 - Gist: https://gist.github.com/p-geon
 - DockerHUB: https://hub.docker.com/repositories
-- [alias of aliases](https://github.com/p-geon/bash_syncer/blob/main/bash/.bash_aliases)
+
+
+BrokenArrow
+
+- [.bash_aliases](https://github.com/p-geon/BrokenArrow/blob/main/dotfiles/.bash_aliases)
+- [.tmux.conf](https://github.com/p-geon/BrokenArrow/blob/main/dotfiles/.tmux.conf)
+- [.vimrc](https://github.com/p-geon/BrokenArrow/blob/main/dotfiles/.vimrc)
